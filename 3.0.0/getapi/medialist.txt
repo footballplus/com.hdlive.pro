@@ -33,363 +33,6 @@
 
 
 
-{
-
-                "SortID":"128","A": "3501",
-                "B": "Live 1",
-                "C": "1",
-                 "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch1.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch1.php\"}",
-                "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 2",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch2.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch2.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 3",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch3.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch3.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 4",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch4.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch4.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 5",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch5.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch5.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 6",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch6.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch6.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 7",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch7.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch7.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 8",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch8.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch8.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 9",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch9.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch9.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 10",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch10.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch10.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 11",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch11.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch11.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 12",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch12.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch12.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
-
-
-{
-                "SortID":"128","A": "3501",
-                "B": "Live 13",
-                "C": "1",
-                "D": "Live In Event",
-                "E": "Live In Event",
-                "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://hdstreams.club/page/ch13.php",
-                "H": "defaultplayer",
-                "I": "false",
-                "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "",
-                "R": "{\"Referer\":\"http://hdstreams.club/hd/ch13.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
-
-
-
-
 
 
 
@@ -440,10 +83,9 @@
 
 
  
- 
 
 
-{"SortID":"128","A":"9","B":"Idman TV","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-az-idman-tv-1189.png","G":"http://85.132.53.55/azerbaijan/idman2_stream_sd/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"21.07.2019 11:44:07","P":0},
+{"SortID":"128","A":"9","B":"Idman TV","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-az-idman-tv-1189.png","G":"https://api.mediabay.tv/v2/channels/thread/92","H":"defaultplayer","I":"false","J":"staticpattern","K":"token=(.*?)['\"]","L":"https://st3.mediabay.tv/Idman/tracks-v1a1/mono.m3u8?token=","M":"","R":"","N":"","O":"04.06.2019 22:39:32","P":0},
 
 
 {"SortID":"128","A":"10","B":"CBC Sport","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a1188.png","G":"http://85.132.53.55/azerbaijan/cbc_sport_hd/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"21.07.2019 11:44:07","P":0},
@@ -1822,7 +1464,7 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Fox Sports 1 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a241.png","G":"http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/926 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
+ , {"SortID":"128","A":"853","B":"Fox Sports 1 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a241.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/21.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -1831,7 +1473,7 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Fox Sports 2 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a242.png","G":"http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/762 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
+ , {"SortID":"128","A":"853","B":"Fox Sports 2 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a242.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/22.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -1839,7 +1481,7 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Fox Sports 3 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a243.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/3.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
+ , {"SortID":"128","A":"853","B":"Fox Sports 3 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a243.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/23.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -1847,7 +1489,7 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Fox Sports 4 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a244.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
+ , {"SortID":"128","A":"853","B":"Fox Sports 4 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a244.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/24.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -1856,7 +1498,7 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Fox Sports 5 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a245.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/1.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
+ , {"SortID":"128","A":"853","B":"Fox Sports 5 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a245.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/25.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
