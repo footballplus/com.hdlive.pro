@@ -932,7 +932,7 @@
  
  
   
-  { "SortID":"128","A": "1", "B": " Arena sport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a314.png", "G": "https://sportbar.biz/arena1rs.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/arena1rs.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "SortID":"128","A": "1", "B": " Arena sport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a314.png", "G":"http://185.180.223.89:25461/live/sportstv/iosapp/52.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -948,25 +948,7 @@
  
  , 
   
-  { "SortID":"128","A": "1", "B": " Arena sport 2 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a315.png", "G": "https://sportbar.biz/arena2sport.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/arena2sport.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
- 
- 
- 
- 
- 
-  
- 
- 
-  
- 
- 
-  
- 
- 
- , 
-  
-  { "SortID":"128","A": "1", "B": " Arena sport 3 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a316.png", "G": "https://sportbar.biz/sportarena3rs.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/sportarena3rs.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
- 
+  { "SortID":"128","A": "1", "B": " Arena sport 2 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a315.png", "G":"http://185.180.223.89:25461/live/sportstv/iosapp/53.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -982,9 +964,7 @@
  
  , 
   
-  { "SortID":"128","A": "1", "B": " Arena sport 4 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a317.png", "G": "https://sportbar.biz/arenaserbia4.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/arenaserbia4.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
- 
- 
+  { "SortID":"128","A": "1", "B": " Arena sport 3 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a316.png", "G":"http://185.180.223.89:25461/live/sportstv/iosapp/54.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
@@ -1000,7 +980,22 @@
  
  , 
   
-  { "SortID":"128","A": "1", "B": " Arena sport 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a318.png", "G": "https://sportbar.biz/ar5sport.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/ar5sport.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "SortID":"128","A": "1", "B": " Arena sport 4 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a317.png", "G":"http://185.180.223.89:25461/live/sportstv/iosapp/55.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+
  
  
  , 
@@ -1038,7 +1033,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28895
+ "G": "http://62.210.209.138:41000/v52/v43/3796
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1058,7 +1053,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28894
+ "G": "http://62.210.209.138:41000/v52/v43/3797
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1080,7 +1075,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28896
+ "G": "http://62.210.209.138:41000/v52/v43/3798
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1100,7 +1095,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28897
+ "G": "http://62.210.209.138:41000/v52/v43/3799
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1120,7 +1115,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28898
+ "G": "http://62.210.209.138:41000/v52/v43/3800
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1139,7 +1134,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28899
+ "G": "http://62.210.209.138:41000/v52/v43/3801
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1161,7 +1156,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28900
+ "G": "http://62.210.209.138:41000/v52/v43/3802
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1183,7 +1178,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://cloudcdn.tk/kF8lyvN65/vaWcxC58/28901
+ "G": "http://62.210.209.138:41000/v52/v43/3803
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1213,15 +1208,14 @@
  
  
  
- {"SortID":"128","A":"853","B":"Bein 1 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a400.png","G":"http://www.elahmad.com/tv/mobiletv/bein_tv.php?id=bein1fr ","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.elahmad.com/tv/mobiletv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"SortID":"128","A":"853","B":"Bein 1 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a400.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/58.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}, 
  
  
  
- {"SortID":"128","A":"853","B":"Bein 2 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a401.png","G":"http://www.elahmad.com/tv/mobiletv/bein_tv.php?id=bein2fr ","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.elahmad.com/tv/mobiletv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"SortID":"128","A":"853","B":"Bein 2 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a401.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/59.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}, 
  
  
- {"SortID":"128","A":"853","B":"Bein 3 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a402.png","G":"http://www.elahmad.com/tv/mobiletv/bein_tv.php?id=bein3fr ","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.elahmad.com/tv/mobiletv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
- 
+ {"SortID":"128","A":"853","B":"Bein 3 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a402.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/60.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  , 
@@ -1489,7 +1483,7 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Fox Sports 4 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a244.png","G":"http://185.180.223.89:25461/sportstv/iosapp/24","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
+ , {"SortID":"128","A":"853","B":"Fox Sports 4 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a244.png","G":"http://185.180.223.89:25461/live/sportstv/iosapp/24.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
  
  
  
