@@ -1033,7 +1033,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3796
+ "G": "http://62.210.209.138:41000/live/v52/v43/3796.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1053,7 +1053,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3797
+ "G": "http://62.210.209.138:41000/live/v52/v43/3797.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1075,7 +1075,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3798
+ "G": "http://62.210.209.138:41000/live/v52/v43/3798.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1095,7 +1095,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3799
+ "G": "http://62.210.209.138:41000/live/v52/v43/3799.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1115,7 +1115,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3800
+ "G": "http://62.210.209.138:41000/live/v52/v43/3800.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1134,7 +1134,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3801
+ "G": "http://62.210.209.138:41000/live/v52/v43/3801.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1156,7 +1156,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3802
+ "G": "http://62.210.209.138:41000/live/v52/v43/3802.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1178,7 +1178,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3803
+ "G": "http://62.210.209.138:41000/live/v52/v43/3803.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
