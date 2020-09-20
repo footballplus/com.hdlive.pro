@@ -8,6 +8,8 @@
 
 
 
+
+
 ],"Y":[
 
 
@@ -1031,7 +1033,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://62.210.209.138:41000/live/v52/v43/3796.m3u8
+ "G": "http://62.210.209.138:41000/v52/v43/3796
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1051,7 +1053,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://62.210.209.138:41000/live/v52/v43/3797.m3u8
+ "G": "http://62.210.209.138:41000/v52/v43/3797
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1073,7 +1075,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://62.210.209.138:41000/live/v52/v43/3798.m3u8
+ "G": "http://62.210.209.138:41000/v52/v43/3798
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1093,7 +1095,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://62.210.209.138:41000/live/v52/v43/3799.m3u8
+ "G": "http://62.210.209.138:41000/v52/v43/3799
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1113,7 +1115,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://62.210.209.138:41000/live/v52/v43/3800.m3u8
+ "G": "http://62.210.209.138:41000/v52/v43/3800
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1132,7 +1134,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://62.210.209.138:41000/live/v52/v43/3801.m3u8
+ "G": "http://62.210.209.138:41000/v52/v43/3801
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1154,7 +1156,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://62.210.209.138:41000/live/v52/v43/3802.m3u8
+ "G": "http://62.210.209.138:41000/v52/v43/3802
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1176,7 +1178,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://62.210.209.138:41000/live/v52/v43/3803.m3u8
+ "G": "http://62.210.209.138:41000/v52/v43/3803
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -2456,17 +2458,19 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1818.png", 
- "G": "https://www.doofree88.com/live/premier-football-hd-1
+ "G": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 ",
- "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=151\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
+
 
 
 
@@ -2476,17 +2480,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1819.png", 
- "G": "https://www.doofree88.com/live/premier-football-hd-2
+ "G": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 ",
- "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=152\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
 
 
 
@@ -2496,17 +2501,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1820.png", 
- "G": "https://www.doofree88.com/live/premier-football-hd-3
+ "G": "https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
 ",
- "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=153\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
 
 
 
@@ -2516,17 +2522,19 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1821.png", 
- "G": "https://www.doofree88.com/live/premier-football-hd-4
+ "G": "https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
 ",
- "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=154\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
+
 
 
 
@@ -2536,17 +2544,19 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1822.png", 
- "G": "https://www.doofree88.com/live/premier-football-hd-5
+ "G": "https://www.livedoomovies.com/02_PremierHD5_480p/chunklist.m3u8
 ",
- "H": "defaultplayer",
+"H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=155\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+ 
+
 
 
 
