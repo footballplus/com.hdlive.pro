@@ -2324,7 +2324,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1855.png", 
- "G": "http://89.163.153.47:8081/shikoshqip/KUJTESASPORT1/playlist.m3u8
+ "G": "http://pop-kanale.com:20201/live/popkanale/70
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2348,7 +2348,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1856.png", 
- "G": "http://89.163.153.47:8081/shikoshqip/KUJTESASPORT2/playlist.m3u8
+ "G": "http://pop-kanale.com:20201/live/popkanale/71
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2368,7 +2368,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1857.png", 
- "G": "http://89.163.153.47:8081/shikoshqip/KUJTESASPORT3/playlist.m3u8",
+ "G": "http://pop-kanale.com:20201/live/popkanale/72",
   "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -2387,7 +2387,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1858.png", 
- "G": "http://89.163.153.47:8081/shikoshqip/KUJTESASPORT4/playlist.m3u8",
+ "G": "http://pop-kanale.com:20201/live/popkanale/73",
   "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -2411,7 +2411,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a686.png", 
- "G": "https://secured.albkanale.com/albkanaleofficial/sports/t1.m3u8
+ "G": "http://pop-kanale.com:20201/live/popkanale/66
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2419,7 +2419,7 @@
  "K": "", 
  "L": "",
  "M": "", "R": "",
-"N":"tv.albkanale.al/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4",
+"N":"vidhidhecakohemoterqir",
 "O":"",
 "P":0},
 
@@ -2434,7 +2434,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a687.png", 
- "G": "https://secured.albkanale.com/albkanaleofficial/sports/t2.m3u8
+ "G": "http://pop-kanale.com:20201/live/popkanale/67
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -2442,7 +2442,28 @@
  "K": "", 
  "L": "",
  "M": "", "R": "",
-"N":"tv.albkanale.al/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4",
+"N":"vidhidhecakohemoterqir",
+"O":"",
+"P":0},
+
+
+
+
+{ "SortID":"128","A": "554458",
+ "B": "TRING SPORT 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a688.png", 
+ "G": "http://pop-kanale.com:20201/live/popkanale/68
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"vidhidhecakohemoterqir",
 "O":"",
 "P":0},
 
