@@ -1088,7 +1088,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3796
+ "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3060
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1108,7 +1108,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3797
+ "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3061
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1130,7 +1130,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3798
+ "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3062
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1150,7 +1150,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3799
+ "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3063
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1170,7 +1170,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3800
+ "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3064
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1189,7 +1189,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3801
+ "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3065
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1211,7 +1211,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3802
+ "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3066
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1233,7 +1233,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://62.210.209.138:41000/v52/v43/3803
+ "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3067
 ",
  "H": "defaultplayer",
  "I": "false", 
