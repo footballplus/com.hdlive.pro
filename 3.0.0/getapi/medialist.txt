@@ -1394,7 +1394,8 @@
  "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", 
  "L": "http://",
  "M": "", 
- "R":"",
+ "R":"{\"Referer\":\"http://www.freecast123.com/cricsp.php?player=mobile&live=skysfott
+\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 }
  
@@ -1712,14 +1713,14 @@
 
 
 ,{"SortID":"128","A":"17","B":"FOX Sports 1 (US)","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a60.png","G":"https://cdn2.sports24.win/fs1.m3u8
-","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"view-source:https://sports24.club/
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://sports24.club/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
   
   
 
 
 ,{"SortID":"128","A":"17","B":"FOX Sports 2 (US)","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a61.png","G":"https://cdn2.sports24.win/fs2.m3u8
-","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"view-source:https://sports24.club/
+","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://sports24.club/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
   
 
