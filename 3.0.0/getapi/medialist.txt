@@ -1444,7 +1444,7 @@
  
   
  , {"SortID":"128","A":"853","B":"Sky Sports Arena","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png",
-"G": "http://www.freecast123.com/cricsp.php?player=mobile&live=skysare
+"G": "http://www.123ecast.com/cricsp.php?player=mobile&live=skysare
 ",
  "H": "defaultplayer",
  "I": "false", 
