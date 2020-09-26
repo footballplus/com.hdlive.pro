@@ -1386,15 +1386,15 @@
 
 
 
-{"SortID":"128","A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G": "http://www.freecast123.com/cricsp.php?player=mobile&live=skysfott
+{"SortID":"128","A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G": "http://www.123ecast.com/cricsp.php?player=mobile&live=skysfott&vw=620&vh=490
 ",
  "H": "defaultplayer",
  "I": "false", 
  "J": "staticpattern", 
  "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", 
- "L": "http://",
+ "L": "http:",
  "M": "", 
- "R":"{\"Referer\":\"http://www.freecast123.com/cricsp.php?player=mobile&live=skysfott
+ "R":"{\"Referer\":\"http://www.123ecast.com/cricsp.php?player=mobile&live=skysfott
 \"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 }
@@ -1417,19 +1417,19 @@
  
  
  
- , {"SortID":"128","A":"853","B":"Sky Action","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a93.png","G": "http://www.freecast123.com/cricsp.php?player=mobile&live=skysact
+ , {"SortID":"128","A":"853","B":"Sky Action","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a93.png","G": "http://www.123ecast.com/cricsp.php?player=mobile&live=skysact
 ",
  "H": "defaultplayer",
  "I": "false", 
  "J": "staticpattern", 
  "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", 
- "L": "http://",
+ "L": "http:",
  "M": "", 
  "R":"",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 } 
  
- , {"SortID":"128","A":"853","B":"Sky sport Mix","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a123.png","G": "http://www.freecast123.com/cricsp.php?player=mobile&live=skysmixx
+ , {"SortID":"128","A":"853","B":"Sky sport Mix","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a123.png","G": "http://www.123ecast.com/cricsp.php?player=mobile&live=skysmixx
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1450,7 +1450,7 @@
  "I": "false", 
  "J": "staticpattern", 
  "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", 
- "L": "http://",
+ "L": "http:",
  "M": "", 
  "R":"",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
@@ -1462,13 +1462,13 @@
  
  
   
- , {"SortID":"128","A":"853","B":"Sky Sports F1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a118.png","G":"http://www.freecast123.com/cricsp.php?player=mobile&live=skysfor1
+ , {"SortID":"128","A":"853","B":"Sky Sports F1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a118.png","G":"http://www.123ecast.com/cricsp.php?player=mobile&live=skysfor1
 ",
  "H": "defaultplayer",
  "I": "false", 
  "J": "staticpattern", 
  "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", 
- "L": "http://",
+ "L": "http:",
  "M": "", 
  "R":"",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
@@ -1480,13 +1480,13 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Sky sport GOLF","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a94.png","G":"http://www.freecast123.com/cricsp.php?player=mobile&live=skysgol
+ , {"SortID":"128","A":"853","B":"Sky sport GOLF","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a94.png","G":"http://www.123ecast.com/cricsp.php?player=mobile&live=skysgol
 ",
  "H": "defaultplayer",
  "I": "false", 
  "J": "staticpattern", 
  "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", 
- "L": "http://",
+ "L": "http",
  "M": "", 
  "R":"",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
@@ -1498,13 +1498,13 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Sky sport Cricket","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a664.png","G":"http://www.freecast123.com/cricsp.php?player=mobile&live=skyscric
+ , {"SortID":"128","A":"853","B":"Sky sport Cricket","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a664.png","G":"http://www.123ecast.com/cricsp.php?player=mobile&live=skyscric
 ",
  "H": "defaultplayer",
  "I": "false", 
  "J": "staticpattern", 
  "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", 
- "L": "http://",
+ "L": "http:",
  "M": "", 
  "R":"",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
