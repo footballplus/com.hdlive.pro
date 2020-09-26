@@ -170,9 +170,31 @@
  {"SortID":"128","A":"853","B":"Digi Sport 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a883.png","G":"https://sportbar.biz/rodigi4.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/rodigi4.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
- {"SortID":"128","A":"853","B":"SPORT TV 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png","G":"https://sportbar.biz/tv1pt.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/tv1pt.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"SortID":"128","A":"853","B":"SPORT TV 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png",
+"G":"https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=139\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 }, 
  
- {"SortID":"128","A":"853","B":"SPORT TV 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a451.png","G":"https://sportbar.biz/sport2port.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sport2port.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+ {"SortID":"128","A":"853","B":"SPORT TV 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a451.png","G": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=140\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
  
  {"SortID":"128","A":"853","B":"SPORT TV 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a452.png", "G": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 ",
