@@ -1110,7 +1110,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3060
+ "G": "http://starshare.live:8080/live/676766/676766/522.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1130,7 +1130,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3061
+ "G": "http://starshare.live:8080/live/676766/676766/520.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1152,7 +1152,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3062
+ "G": "http://starshare.live:8080/live/676766/676766/516.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1172,7 +1172,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3063
+ "G": "http://starshare.live:8080/live/676766/676766/518.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1192,7 +1192,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3064
+ "G": "http://starshare.live:8080/live/676766/676766/523.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1211,7 +1211,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3065
+ "G": "http://starshare.live:8080/live/676766/676766/519.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1233,7 +1233,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3066
+ "G": "http://starshare.live:8080/live/676766/676766/515.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1255,7 +1255,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://iptv.allkaicerteam.com:8080/spoki/1387248762/3067
+ "G": "http://starshare.live:8080/live/676766/676766/560.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
