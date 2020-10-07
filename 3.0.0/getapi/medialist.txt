@@ -950,7 +950,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1239.png", 
-  "G": "http://nodemaster.homelinux.com/SPORTV-HD/mpegts?token=cOAOwU8SC2
+  "G": "http://a.srvbr.me:8880/live/778654/778654/748.m3u8
 ",
 "H": "defaultplayer",
  "I": "false", 
@@ -972,7 +972,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1240.png", 
-"G": "http://nodemaster.homelinux.com/SPORTV2-HD/mpegts?token=cOAOwU8SC2
+"G": "http://a.srvbr.me:8880/live/778654/778654/747.m3u8
 ",
 "H": "defaultplayer",
  "I": "false", 
@@ -997,7 +997,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1242.png", 
-"G": "http://nodemaster.homelinux.com/SPORTV3-HD/mpegts?token=cOAOwU8SC2
+"G": "http://a.srvbr.me:8880/live/778654/778654/745.m3u8
 ",
 "H": "defaultplayer",
  "I": "false", 
