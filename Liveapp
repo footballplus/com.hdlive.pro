@@ -37,7 +37,7 @@
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
-                "K": "['\"](http[^'\"]*mbc1-ar[^'\"]*)['\"]", 
+                "K": "['\"](http[^'\"]*BE_ELEVENSPORT_1-be[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
