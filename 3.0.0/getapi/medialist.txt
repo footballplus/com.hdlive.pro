@@ -3984,11 +3984,10 @@
        
        
        
-       
-           
+
 {"SortID":"128","A":"11544",
 "B":"NOVA TV ",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/nova.png",
@@ -4009,7 +4008,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"TVE 1",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/tve1.png",
@@ -4032,7 +4031,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"antena3",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/antena3.png",
@@ -4056,7 +4055,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"cuatro",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/cuatro.png",
@@ -4079,7 +4078,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"telecinco",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/telecinco.png",
@@ -4103,7 +4102,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"sexta",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/sexta.png",
@@ -4126,7 +4125,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"paramountchannel",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/paramountchannel.png",
@@ -4149,7 +4148,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"bemad",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/bemad.png",
@@ -4172,7 +4171,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"discoverymax",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/discoverymax.png",
@@ -4192,7 +4191,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"mega",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/mega.png",
@@ -4213,7 +4212,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"neox hd",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/neoxhd.png",
@@ -4236,7 +4235,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"atreseries",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/atreseries.png",
@@ -4256,7 +4255,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"FDF TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/fdf.png",
@@ -4275,7 +4274,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Divinity TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/divinity.png",
@@ -4295,7 +4294,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Energy TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/energy.png",
@@ -4316,7 +4315,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Movistar  accion TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/accion.png",
@@ -4335,7 +4334,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Movistar estrenos TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/mestrenos.png",
@@ -4354,7 +4353,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Movistar drama TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/drama.png",
@@ -4375,7 +4374,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Movistar comedia TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/comedia.png",
@@ -4395,7 +4394,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Movistar disney TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/mdisney.png",
@@ -4416,7 +4415,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Movistar series TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/mseries.png",
@@ -4436,7 +4435,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Movistar seriesmania TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/seriesmania.png",
@@ -4457,7 +4456,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"TNT TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/tnt.png",
@@ -4477,7 +4476,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"AXN TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/axn.png",
@@ -4496,7 +4495,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"Syfy TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/syfy.png",
@@ -4517,7 +4516,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"FOX TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/fox.png",
@@ -4538,7 +4537,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"FOX life TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/foxlife.png",
@@ -4560,7 +4559,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"AMC TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/amc.png",
@@ -4580,7 +4579,7 @@
 
 {"SortID":"128","A":"11544",
 "B":"TMC TV",
-"C": "1",
+"C": "109",
  "D":"Spain TV",
  "E": "Spain TV", 
 "F":"https://vergol.com/logos/tcm.png",
@@ -4595,6 +4594,7 @@
 "N":"mierda",
 "O":"04.06.2019 22:39:32",
 "P":0},
+
 
 
 
