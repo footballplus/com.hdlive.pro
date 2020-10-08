@@ -627,7 +627,7 @@
 
 
 
-{"SortID":"128","A":"1068","B":"BLOOMBERG TV HD 720P","C":"4","D":"HABER KANALLARI","E":"HABER KANALLARI","F":"https://4.bp.blogspot.com/-vJWVa5lurGM/XXwxoOb2sJI/AAAAAAAAAVA/3rO81NE9RA0CveQgU9ZifzlgO-3sDF2rACLcBGAsYHQ/s1600/PicsArt_09-14-02.16.46.jpg","G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056","H":"defaultplayer","I":"false","J":"staticpattern","K":"ex=(.*?)['\"]","L":"http://51.178.220.156/?watch=TR/mbc1-ar&token=","M":"","R":"","N":"REDLINECLIENT GN-CX1200 V1.9.29","O":"04.06.2019 22:58:45","P":0},
+{"SortID":"128","A":"1068","B":"BLOOMBERG TV HD 720P","C":"4","D":"HABER KANALLARI","E":"HABER KANALLARI","F":"https://4.bp.blogspot.com/-vJWVa5lurGM/XXwxoOb2sJI/AAAAAAAAAVA/3rO81NE9RA0CveQgU9ZifzlgO-3sDF2rACLcBGAsYHQ/s1600/PicsArt_09-14-02.16.46.jpg","G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056","H":"defaultplayer","I":"false","J":"staticpattern","K":"token=(.*?)['\"]","L":"http://51.178.220.156/?watch=TR/mbc1-ar&token=","M":"","R":"","N":"REDLINECLIENT GN-CX1200 V1.9.29","O":"04.06.2019 22:58:45","P":0},
 
 
 
