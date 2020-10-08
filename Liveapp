@@ -16,6 +16,44 @@
 
 
 {"SortID":"128",
+     
+                "A": "35601",
+                "B": "Final Kill 2020",
+                "C": "21",
+                 "D": "Film ",
+                "E": "Film ",
+                "F": "https://app.movizland.online/wp-content/uploads/Final-Kill-2020.jpg",
+                "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056",
+                "H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*mbc1-ar[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT GN-CX1200 V1.9.29",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+            
+            
+{"SortID":"128","A":"1078","B":"KSA Sport 1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://gulf365.co/content/uploads/2019/09/05/868162048c.jpg","G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http://51.178.220.156/?watch=TR/mbc1-ar&[^'\"]*token[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+
+            
+
+{"SortID":"128","A":"1078","B":"KSA Sport 1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://gulf365.co/content/uploads/2019/09/05/868162048c.jpg","G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http://51.178.220.156/?watch=TR/mbc1-ar&[^'\"]*token[^'\"]*)['\"]","L":"","M":"","R":"","N":"REDLINECLIENT GN-CX1200 V1.9.29","O":"04.06.2019 22:58:45","P":0},
+
+            
+
+
+
+
+
+
+{"SortID":"128",
 "A":"1068",
 "B":"BLOOMBERG TV HD 720P",
 "C":"4","D":"HABER KANALLARI",
@@ -25,7 +63,7 @@
 "G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056",
 "H":"defaultplayer",
 "I":"false",
-"J":"staticpattern",
+"J":"pattern",
 "K":"token=(.*?)",
 "L":"http://51.178.220.156/?watch=TR/mbc1-ar&token=","M":"","R":"",
 "N":"REDLINECLIENT GN-CX1200 V1.9.29",
