@@ -3986,6 +3986,623 @@
        
        
            
+{"SortID":"128","A":"11544",
+"B":"NOVA TV ",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/nova.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/nova.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"TVE 1",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/tve1.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/la1.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"antena3",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/antena3.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/antena3.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"cuatro",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/cuatro.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/cuatro.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"telecinco",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/telecinco.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/telecinco.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"sexta",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/sexta.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/lasexta.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"paramountchannel",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/paramountchannel.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/paramountchannel.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"bemad",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/bemad.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/bemad.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"discoverymax",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/discoverymax.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/dmax.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"SortID":"128","A":"11544",
+"B":"mega",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/mega.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/mega.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"neox hd",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/neoxhd.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/neox.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"atreseries",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/atreseries.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/bemad.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"SortID":"128","A":"11544",
+"B":"FDF TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/fdf.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/fdf.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+{"SortID":"128","A":"11544",
+"B":"Divinity TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/divinity.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/divinity.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"SortID":"128","A":"11544",
+"B":"Energy TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/energy.png",
+"G":"https://vergol.com/aplicacion/app21/nacionales/energy.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-spain.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"Movistar  accion TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/accion.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/accion.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+{"SortID":"128","A":"11544",
+"B":"Movistar estrenos TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/mestrenos.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/estrenos.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+{"SortID":"128","A":"11544",
+"B":"Movistar drama TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/drama.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/drama.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"Movistar comedia TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/comedia.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/comedia.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"SortID":"128","A":"11544",
+"B":"Movistar disney TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/mdisney.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/disney.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"Movistar series TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/mseries.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/series.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"SortID":"128","A":"11544",
+"B":"Movistar seriesmania TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/seriesmania.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/seriesmania.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"TNT TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/tnt.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/tnt.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"SortID":"128","A":"11544",
+"B":"AXN TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/axn.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/axn.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+{"SortID":"128","A":"11544",
+"B":"Syfy TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/syfy.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/syfy.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"FOX TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/fox.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/fox.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"FOX life TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/foxlife.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/foxlife.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+{"SortID":"128","A":"11544",
+"B":"AMC TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/amc.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/amc.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"SortID":"128","A":"11544",
+"B":"TMC TV",
+"C": "1",
+ "D":"Spain TV",
+ "E": "Spain TV", 
+"F":"https://vergol.com/logos/tcm.png",
+"G":"https://vergol.com/aplicacion/app21/cine-series/tmc.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-cine-y-series.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+
+
 
 
 
