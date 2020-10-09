@@ -23,7 +23,7 @@
                  "D": "test ",
                 "E": "test ",
                 "F": "https://app.movizland",
-                "G": "http://185.180.223.89:25461/live/sportstv/iosapp/150.m3u8|user-agent=iosapp2",
+                "G": "http://185.180.223.89:25461/live/sportstv/iosapp/150.m3u8",
                 "H": "openbrowser",
                 "I": "true",
                 "J": "direct",  
@@ -31,7 +31,7 @@
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "iosapp2",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
