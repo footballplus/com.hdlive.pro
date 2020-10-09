@@ -1458,177 +1458,442 @@
 
 
 
+            
+            
 
   
 { "SortID":"128","A": "8",
- "B": "SuperSport One",
+ "B": "SuperSport Variety1 FHD",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://starshare.live:8080/live/676766/676766/522.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "samsung LibVLC/3.0.10", "O": "",
- "P": 0 },
+  "H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Variety_1_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
 
+ 
  
   
 { "SortID":"128","A": "8",
- "B": "SuperSport Two",
+ "B": "SuperSport Variety 2FHD",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://starshare.live:8080/live/676766/676766/520.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "samsung LibVLC/3.0.10", "O": "",
- "P": 0 },
-
-
+  "H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Variety_2_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
 
 
   
 { "SortID":"128","A": "8",
- "B": "SuperSport Three",
+ "B": "SuperSport Variety 3FHD",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://starshare.live:8080/live/676766/676766/516.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "samsung LibVLC/3.0.10", "O": "",
- "P": 0 },
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Variety_3_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
 
- 
    
 { "SortID":"128","A": "8",
- "B": "SuperSport Four",
+ "B": "SuperSport Variety 4FHD",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://starshare.live:8080/live/676766/676766/518.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "samsung LibVLC/3.0.10", "O": "",
- "P": 0 },
+ "H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Variety_4_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+
 
  
    
 { "SortID":"128","A": "8",
- "B": "SuperSport Five",
+ "B": "SuperSport Football FHD",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://starshare.live:8080/live/676766/676766/523.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "samsung LibVLC/3.0.10", "O": "",
- "P": 0 },
-
-   
+ "H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Football_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+            
+            
 { "SortID":"128","A": "8",
- "B": "SuperSport Six",
+ "B": "SuperSport Premier League  ",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://starshare.live:8080/live/676766/676766/519.m3u8
+ "F": "https://sport-tv-guide.live/images/stations/a299.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "samsung LibVLC/3.0.10", "O": "",
- "P": 0 },
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Premier_League_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
 
+            
+            
+            
+            
+            
 
+   
 
 
     
 { "SortID":"128","A": "8",
- "B": "SuperSport Seven",
+ "B": "SuperSport LaLiga FHD",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://starshare.live:8080/live/676766/676766/515.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "samsung LibVLC/3.0.10", "O": "",
- "P": 0 },
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_LaLiga_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+
 
 
 
 
     
 { "SortID":"128","A": "8",
- "B": "SuperSport Eight",
+ "B": "SuperSport PSL",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://starshare.live:8080/live/676766/676766/560.m3u8
+ "F": "https://sport-tv-guide.live/images/stations/a303.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "samsung LibVLC/3.0.10", "O": "",
- "P": 0 },
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_PSL_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+{ "SortID":"128","A": "8",
+ "B": "SuperSport Grandstand FHD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a296.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Grandstand_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+
+
+
+
+{ "SortID":"128","A": "8",
+ "B": "SuperSport WWE ",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a2452.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_WWE_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
 
 
 
 
 
+{ "SortID":"128","A": "8",
+ "B": "SuperSport Cricket ",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a670.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Cricket_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
 
 
+ 
+ 
+
+{ "SortID":"128","A": "8",
+ "B": "SuperSport Golf ",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a304.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*Supersport_Golf_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+
+
+ 
+{ "SortID":"128","A": "8",
+ "B": "SuperSport Rugby ",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a768.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Rugby_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+
+ 
+ 
+{ "SortID":"128","A": "8",
+ "B": "SuperSport Action ",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1144.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Action_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+
+
+
+
+ 
+{ "SortID":"128","A": "8",
+ "B": "SuperSport Tennis ",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a665.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Tennis_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+
+
+
+{ "SortID":"128","A": "8",
+ "B": "SuperSport Blitz FHD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a300.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*Supersport_Blitz_FHD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+
+{ "SortID":"128","A": "8",
+ "B": "SuperSport Maximo FHD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a302.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "H": "webplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Maximo_1_HD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+
+ 
+
+ 
  
  
  
