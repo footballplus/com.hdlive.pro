@@ -37,7 +37,7 @@
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "pattern",  
-                "K": "['\"](http[^'\"]*BE_ELEVENSPORT_1-be[^'\"]*)['\"]", 
+                "K": "['\"](http[^'\"]*elevensports1hd-por&token=RED_[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
