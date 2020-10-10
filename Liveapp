@@ -49,7 +49,7 @@
  "F": "https://sport-tv-guide.live/images/stations/a686.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
- "H": "webplayer",
+ "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
                 "K": "['\"](http[^'\"]*Tring_Sport_1_FHD_VIP_AL[^'\"]*)['\"]", 
@@ -450,9 +450,9 @@
  "F": "https://sport-tv-guide.live/images/stations/a1500.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
-  "H": "webplayer",
+  "H": "defaultplayer",
                 "I": "true",
-                "J": "pattern",  
+                "J": "direct",  
                 "K": "['\"](http[^'\"]*elevensports1hd[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
@@ -474,7 +474,7 @@
  "F": "https://sport-tv-guide.live/images/stations/a1501.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
-  "H": "webplayer",
+  "H": "vitamioplayer",
                 "I": "true",
                 "J": "pattern",  
                 "K": "['\"](http[^'\"]*elevensports2hd[^'\"]*)['\"]", 
