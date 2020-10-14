@@ -556,7 +556,7 @@
  
  {"SortID":"128","A":"853","B":"SPORT TV 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a452.png", "G": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 ",
-"H": "defaultplayer",
+"H": "vitamioplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
