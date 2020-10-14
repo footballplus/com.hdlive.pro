@@ -2307,7 +2307,7 @@
  
  
  
- {"SortID":"128","A":"853","B":"AD SPORTS 6","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a432.png","G":"https://tvae.ercdn.net/adsport6/adsport6.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
+ {"SortID":"128","A":"853","B":"AD SPORTS 6","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a432.png","G":"http://190.2.133.58:8080/TV4665?AuthInfo=9daa5c7eb6c6930455e3f8f1650d2594701141c25a795cb81d4c8c963c6ed5b7dbd0f734be7cba2016e53915412944008df7cb1b23a1bc52d00df7b33a4e2bbbaeda00889e3e218bc7a5d3fbfca2aa2934dd8d8f8cb20f55","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
  
  
