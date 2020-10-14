@@ -538,7 +538,7 @@
  "L": "",
  "M": "", 
  "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=139\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "N": "MXPlayer/1.28.7 (Linux; Android 10; fr-FR; Redmi Note 8 Pro Build/QP1A.190711.020)", "O": "",
  "P": 0 }, 
  
  {"SortID":"128","A":"853","B":"SPORT TV 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a451.png","G": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
@@ -550,7 +550,7 @@
  "L": "",
  "M": "", 
  "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=140\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "N": "MXPlayer/1.28.7 (Linux; Android 10; fr-FR; Redmi Note 8 Pro Build/QP1A.190711.020)", "O": "",
  "P": 0 },
  
  
@@ -563,7 +563,7 @@
  "L": "",
  "M": "", 
  "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=141\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "N": "MXPlayer/1.28.7 (Linux; Android 10; fr-FR; Redmi Note 8 Pro Build/QP1A.190711.020)", "O": "",
  "P": 0 },
  
  {"SortID":"128","A":"853","B":"SPORT TV 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png", "G": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
@@ -575,7 +575,7 @@
  "L": "",
  "M": "", 
  "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=142\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "N": "MXPlayer/1.28.7 (Linux; Android 10; fr-FR; Redmi Note 8 Pro Build/QP1A.190711.020)", "O": "",
  "P": 0 },
  
  {"SortID":"128","A":"853","B":"SPORT TV 5 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png", "G": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
@@ -587,7 +587,7 @@
  "L": "",
  "M": "", 
  "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=143\"}",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "N": "MXPlayer/1.28.7 (Linux; Android 10; fr-FR; Redmi Note 8 Pro Build/QP1A.190711.020)", "O": "",
  "P": 0 },
 
 
