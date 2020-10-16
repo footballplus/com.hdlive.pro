@@ -533,7 +533,7 @@
 "G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
 "H": "defaultplayer",
- "I": "faltruese", 
+ "I": "false", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
 "L":"http://89.187.169.205:2200/NL/sporttv1-por/index.m3u8?token=", 
@@ -546,7 +546,7 @@
 "G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
 "H": "defaultplayer",
- "I": "faltruese", 
+ "I": "false", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
 "L":"http://89.187.169.205:2200/NL/sporttv2-por/index.m3u8?token=", 
@@ -560,7 +560,7 @@
 "G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
 "H": "defaultplayer",
- "I": "faltruese", 
+ "I": "false", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
 "L":"http://89.187.169.205:2200/NL/sporttv3-por/index.m3u8?token=", 
@@ -573,7 +573,7 @@
  "G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
 "H": "defaultplayer",
- "I": "faltruese", 
+ "I": "false", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
 "L":"http://89.187.169.205:2200/NL/sporttv4-por/index.m3u8?token=", 
@@ -586,7 +586,7 @@
 "G":"https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
 ",
 "H": "defaultplayer",
- "I": "faltruese", 
+ "I": "true", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
 "L":"http://89.187.169.205:2200/NL/sporttv5-por/index.m3u8?token=", 
