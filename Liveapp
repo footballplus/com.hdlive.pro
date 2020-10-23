@@ -4983,15 +4983,15 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/5073/565073-h", 
- "G": "http://www.freecast123.com/cricsp.php?player=mobile&live=star1in
+ "G": "http://www.mixcasthd.com/crichd.php?player=mobile&live=skysme&vw=620&vh=490
 ",
  "H": "defaultplayer",
  "I": "false", 
  "J": "staticpattern", 
  "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", 
- "L": "http://",
+ "L": "",
  "M": "", 
- "R":"",
+ "R":"{\"Referer\":\"http://stream.crichd.vip/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
 
