@@ -987,9 +987,9 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a302.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=
 ",
- "H": "webplayer",
+ "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
                 "K": "['\"](http[^'\"]*SuperSport_Maximo_1_HD[^'\"]*)['\"]", 
