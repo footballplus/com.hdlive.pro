@@ -14,6 +14,178 @@
 
 
 
+
+
+
+
+
+
+{ "SortID":"128","A": "8",
+ "B": "ESPN TV",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://files.rednetcontent.com/chlogo/ESPN-logo-wordmark.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+  "H": "defaultplayer",
+                "I": "true",
+                "J": "staticpattern",  
+                "K": "['\"](http[^'\"]*ESPN_HD-br[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+            
+            
+            
+{ "SortID":"128","A": "8",
+ "B": "ESPN 2 TV",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://files.rednetcontent.com/chlogo/ESPN-logo-wordmark.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+  "H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*ESPN2_HD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+            
+            
+            
+            
+            
+{ "SortID":"128","A": "8",
+ "B": "ESPN Brasil TV",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1232.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+  "H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*ESPN_Brasil_HD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+            
+            
+            
+                   
+            
+{ "SortID":"128","A": "8",
+ "B": "ESPN Extra TV",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1233.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+  "H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*espnextra[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+            
+            
+                    
+            
+{ "SortID":"128","A": "8",
+ "B": "FOX Sports HD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1236.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+  "H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*Fox_Sports_HD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+            
+            
+            
+                    
+            
+{ "SortID":"128","A": "8",
+ "B": "FOX Sports 2 HD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1237.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+  "H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*Fox_Sports_2_HD[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+            
+            
+            
+            
+
+
+
+
+
+
+
+
  {"SortID":"128","A":"853","B":"SPORT TV 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png",
 "G":"https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
