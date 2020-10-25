@@ -528,66 +528,195 @@
  {"SortID":"128","A":"853","B":"Digi Sport 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a883.png","G":"https://sportbar.biz/rodigi4.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/rodigi4.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
 
  
- {"SortID":"128","A":"853","B":"SPORT TV 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png","G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26627.m3u8
-",
-"H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "iosapp2", "O": "",
- "P": 0 },
- 
- {"SortID":"128","A":"853","B":"SPORT TV 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a451.png","G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26628.m3u8
-",
-"H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "iosapp2", "O": "",
- "P": 0 },
- 
- {"SortID":"128","A":"853","B":"SPORT TV 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a452.png", "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26629.m3u8
-",
-"H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "iosapp2", "O": "",
- "P": 0 },
- 
- {"SortID":"128","A":"853","B":"SPORT TV 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png", "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26630.m3u8
-",
-"H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
- "P": 0 },
- 
- {"SortID":"128","A":"853","B":"SPORT TV 5 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png", "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26631.m3u8
-",
-"H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
- "P": 0 },
 
+
+
+ {"SortID":"128","A":"853","B":"SPORT TV 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png",
+"G":"https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.205:2200/NL/sporttv1-por/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+ {"SortID":"128","A":"853","B":"SPORT TV 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a451.png",
+"G":"https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.205:2200/NL/sporttv2-por/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+ 
+ {"SortID":"128","A":"853","B":"SPORT TV 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a452.png",
+"G":"https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.205:2200/NL/sporttv3-por/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+ {"SortID":"128","A":"853","B":"SPORT TV 4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png",
+ "G":"https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.205:2200/NL/sporttv4-por/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+ {"SortID":"128","A":"853","B":"SPORT TV 5 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a453.png", 
+"G":"https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.205:2200/NL/sporttv5-por/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+
+
+
+
+
+
+{ "SortID":"128","A": "8",
+ "B": "Eleven Sports 1 PT",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1500.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+                "L": "http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+
+ 
+{ "SortID":"128","A": "8",
+ "B": "Eleven Sports 2 PT",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1501.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+ "H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+                "L": "http://185.246.210.53:2200/NL/elevensports2-por/index.m3u8?token=",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+
+ 
+{ "SortID":"128","A": "8",
+ "B": "Eleven Sports 3 PT",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1502.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+  "H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+                "L": "http://185.59.222.171:2200/NL/elevensports3-por/index.m3u8?token=",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+{ "SortID":"128","A": "8",
+ "B": "Eleven Sports 4 PT",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1557.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+                "L": "http://185.59.222.171:2200/NL/elevensports1-por/index.m3u8?token=",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+            
+
+ 
+{ "SortID":"128","A": "8",
+ "B": "Benfica TV",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a812.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+                "L": "http://195.181.172.83:2200/NL/btv1hd-por/index.m3u8?token=",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
 
 
 
@@ -612,17 +741,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://beinconnect.us/?id=1&srv=srv1
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
+   "G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1",
+"H":"defaultplayer",
+"I":"true",
+"J":"staticpattern",
+"K":"token=(.*?)['\"]","L":"http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=",
+"M":"",
+"R":"","N":"REDLINECLIENT ",
+"O":"04.06.2019 22:39:32",
 "P":0},
+
+
+            
 
 
  
@@ -1475,7 +1605,7 @@
 
 
  
- 
+
   
 { "SortID":"128","A": "8",
  "B": "SuperSport Variety1 FHD",
@@ -1483,16 +1613,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289541.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
   "H": "defaultplayer",
                 "I": "true",
-                "J": "direct",  
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Variety_1_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1509,16 +1639,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
-"G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289542.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
   "H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Variety_2_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1534,16 +1664,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289546.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Variety_3_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1558,16 +1688,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289544.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+ "H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Variety_4_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1584,16 +1714,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289545.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+ "H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Football_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1608,16 +1738,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a299.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289543.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Premier_League_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1640,16 +1770,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
-"G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289550.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_LaLiga_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1668,16 +1798,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a303.png", 
-"G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289541.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_PSL_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1690,16 +1820,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
-"G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289541.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+ "H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Grandstand_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1716,16 +1846,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a2452.png", 
-"G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289541.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_WWE_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1742,16 +1872,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a670.png", 
-"G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289541.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct", 
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Cricket_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1768,16 +1898,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a304.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289541.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*Supersport_Golf_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1792,16 +1922,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a768.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289552.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Rugby_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1816,16 +1946,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1144.png", 
-"G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289547.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Action_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1842,16 +1972,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a665.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289541.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
- "H": "defaultplayer",
+"H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Tennis_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1866,16 +1996,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a300.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289554.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
 ",
-  "H": "defaultplayer",
+ "H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*Supersport_Blitz_FHD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1889,16 +2019,16 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a302.png", 
- "G": "http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289553.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
-  "H": "defaultplayer",
+ "H": "defaultplayer",
                 "I": "true",
-                "J": "direct",
-                "K": "", 
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*SuperSport_Maximo_1_HD[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "",
+                "N": "REDLINECLIENT",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
@@ -1909,6 +2039,7 @@
  
 
  
+
  
  
  
