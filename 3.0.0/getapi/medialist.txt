@@ -638,7 +638,7 @@
  "I": "faltruese", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
-                "L": "http://185.246.210.51:2200/NL/elevensports2-por/index.m3u8?token=",
+                "L": "http://185.246.210.51:2200/NL/elevensports2hd-por/index.m3u8?token=",
                 "M": "",
                 "R": "",
                 "N": "REDLINECLIENT",
