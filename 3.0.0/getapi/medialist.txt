@@ -1606,6 +1606,7 @@
 
  
 
+
   
 { "SortID":"128","A": "8",
  "B": "SuperSport Variety1 FHD",
@@ -1613,7 +1614,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
   "H": "defaultplayer",
                 "I": "true",
@@ -1639,7 +1640,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
   "H": "defaultplayer",
                 "I": "true",
@@ -1664,7 +1665,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1688,7 +1689,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
  "H": "defaultplayer",
                 "I": "true",
@@ -1714,7 +1715,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
  "H": "defaultplayer",
                 "I": "true",
@@ -1738,7 +1739,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a299.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1770,7 +1771,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1798,7 +1799,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a303.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1820,7 +1821,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
  "H": "defaultplayer",
                 "I": "true",
@@ -1846,7 +1847,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a2452.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1872,7 +1873,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a670.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1898,7 +1899,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a304.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1922,7 +1923,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a768.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1946,7 +1947,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1144.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1972,7 +1973,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a665.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
                 "I": "true",
@@ -1996,7 +1997,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a300.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
  "H": "defaultplayer",
                 "I": "true",
@@ -2040,7 +2041,6 @@
 
  
 
- 
  
  
  
