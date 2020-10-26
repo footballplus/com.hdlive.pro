@@ -455,6 +455,59 @@
 
  
  
+
+{ "SortID":"128","A": "8",
+ "B": "S Sport 1 HD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://files.rednetcontent.com/chlogo/s_sport_hd.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.206:2200/EX/SMART_SPOR_HD-tr/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+
+ 
+{ "SortID":"128","A": "8",
+ "B": "S Sport 2 HD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://files.rednetcontent.com/chlogo/s_sport_hd.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://195.181.172.83:2200/EX/S_SPORT_2_FHD-tr/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+
+ 
+
+ 
+
+
+
+
+
+
  
 {"SortID":"128","A":"8","B":"Tivibu Spor
 ","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a648.png","G":"http://mobile.canlitvlive.io/izle/tivibu-spor.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://mobile.canlitvlive.io/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
@@ -1616,18 +1669,16 @@
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
-  "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Variety_1_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.202:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
             
 
@@ -1642,18 +1693,16 @@
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
-  "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Variety_2_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.204:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
             
 
@@ -1668,17 +1717,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Variety_3_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.53:2200/AFR-EX/SuperSport_Variety_3_FHD_ZA-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
             
 
@@ -1691,18 +1738,16 @@
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Variety_4_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.93.2.153:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
             
 
@@ -1717,18 +1762,16 @@
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Football_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.50:2200/AFR-EX/SuperSport_Football_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
             
             
@@ -1742,17 +1785,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Premier_League_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.206:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
 
             
@@ -1774,17 +1815,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_LaLiga_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.54:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
             
 
@@ -1802,17 +1841,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_PSL_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.54:2200/AFR-EX/SuperSport_PSL_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
             
 { "SortID":"128","A": "8",
@@ -1823,18 +1860,16 @@
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Grandstand_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.50:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
             
 
@@ -1850,17 +1885,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_WWE_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.54:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
 
 
@@ -1876,17 +1909,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Cricket_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.203:2200/AFR-EX/SuperSport_Cricket_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
 
 
@@ -1902,17 +1933,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*Supersport_Golf_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.54:2200/AFR-EX/Supersport_Golf_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
 
 
@@ -1926,17 +1955,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Rugby_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.204:2200/AFR-EX/SuperSport_Rugby_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
 
  
@@ -1950,17 +1977,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Action_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.205:2200/AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
 
 
@@ -1976,17 +2001,15 @@
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Tennis_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.202:2200/AFR-EX/SuperSport_Tennis_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
             
 
 
@@ -1999,20 +2022,19 @@
  "F": "https://sport-tv-guide.live/images/stations/a300.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*Supersport_Blitz_FHD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://89.187.169.206:2200/AFR-EX/Supersport_Blitz_FHD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+ 
             
-            
+                        
 
 { "SortID":"128","A": "8",
  "B": "SuperSport Maximo FHD",
@@ -2022,21 +2044,19 @@
  "F": "https://sport-tv-guide.live/images/stations/a302.png", 
  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
-                "I": "true",
-                "J": "pattern",  
-                "K": "['\"](http[^'\"]*SuperSport_Maximo_1_HD[^'\"]*)['\"]", 
-                "L": "",
-                "M": "",
-                "R": "",
-                "N": "REDLINECLIENT",
-                "O": "24.04.2017 20:03:40",
-                "P": 0
-             
-            }, 
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.54:2200/AFR-EX/SuperSport_Maximo_1_HD-dstv/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
             
             
-
+            
+            
  
 
  
