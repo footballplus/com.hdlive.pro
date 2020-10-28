@@ -33,6 +33,250 @@
 
 
 
+ 
+ { "SortID":"128","A": "9",
+ "B": "(AR) Bein Sports HD 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein2hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+{ "SortID":"128","A": "10",
+ "B": "(AR) Bein Sports HD 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein3hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+
+
+
+
+
+{ "SortID":"128","A": "11",
+ "B": "(AR) Bein Sports HD 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein4hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+ 
+
+
+ { "SortID":"128","A": "12",
+  "B": "(AR) Bein Sports HD 5",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein5hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+ 
+  
+  
+  
+
+{ "SortID":"128","A": "13",
+ "B": "(AR) Bein Sports HD 6",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
+  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein6hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+  
+
+
+
+
+
+
+
+ {"SortID":"128","A":"14","B":"(AR) Bein Sports HD 7","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png",  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein7hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+
+
+ {"SortID":"128","A":"15","B":"(AR) Bein Sports HD 8","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png",  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein8hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+ {"SortID":"128","A":"16","B":"(AR) Bein Sports HD 9","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png",  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein9hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+ 
+ 
+ 
+ {"SortID":"128","A":"17","B":"(AR) Bein Sports HD 10","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", 
+  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein10hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+ 
+ {"SortID":"128","A":"17","B":"(AR) Bein Sports HD 11","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be11.png", 
+  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein11hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+ 
+ {"SortID":"128","A":"17","B":"(AR) Bein Sports HD 12","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be12.png", 
+  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein12hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+ 
+ {"SortID":"128","A":"17","B":"(AR) Bein Sports HD 13","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be13.png", 
+  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein13hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+ 
+
+
 
 
 
