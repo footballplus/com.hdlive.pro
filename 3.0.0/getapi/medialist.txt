@@ -774,9 +774,8 @@
 
 
  
-            
 { "SortID":"128","A": "8",
- "B": "(AR) Bein Sport 1 HD",
+ "B": "(AR)Bein Sport 1 HD",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
@@ -785,26 +784,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein1hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
-
-
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
  
-
- 
-
- 
-
-
-
- 
- 
-
  
  { "SortID":"128","A": "9",
  "B": "(AR) Bein Sports HD 2",
@@ -816,13 +804,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein2hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.246.210.54:2200/EX/bein2hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -845,13 +835,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein3hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.246.210.53:2200/EX/bein3hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -870,13 +862,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein4hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.93.2.153:2200/EX/bein4hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -893,13 +887,14 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein5hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://89.187.169.203:2200/EX/bein5hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
  
             
             
@@ -918,13 +913,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein6hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.59.222.171:2200/EX/bein6hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -940,13 +937,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein7hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://89.187.169.204:2200/EX/bein7hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -956,13 +955,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein8hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://89.187.169.203:2200/EX/bein8hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -970,13 +971,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein9hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.59.222.171:2200/EX/bein9hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -988,13 +991,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein10hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.246.210.51:2200/EX/bein10hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -1004,13 +1009,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein11hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.93.2.153:2200/EX/bein11hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -1020,13 +1027,15 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein12hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://89.187.169.205:2200/EX/bein12hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
@@ -1036,16 +1045,21 @@
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "pattern", 
- "K":"['\"](http[^'\"]*bein13hd-ar[^'\"]*)['\"]",
-"L":"", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://89.187.169.203:2200/EX/beIN_Sports_13_HD-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
  
             
             
+ 
+
+
  
 
 
