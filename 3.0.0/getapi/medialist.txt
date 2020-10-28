@@ -775,6 +775,24 @@
 
  
             
+{ "SortID":"128","A": "8",
+ "B": "(AR) Bein Sport 1 HD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://files.rednetcontent.com/chlogo2/arabic/beinsporthd1.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+ "J": "pattern", 
+ "K":"['\"](http[^'\"]*bein1hd-ar[^'\"]*)['\"]",
+"L":"", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+
 
  
 
