@@ -6430,24 +6430,27 @@
 
 
 
-
 { "SortID":"128","A": "8212",
  "B": "LIVE MOVIES 1",
  "C": "145",
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10086/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6458,17 +6461,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10088/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction2-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6479,17 +6486,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10085/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction3-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6501,17 +6512,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10080/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction4-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6523,17 +6538,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10082/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction5-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6545,17 +6564,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10083/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction6-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6569,17 +6592,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10084/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction7-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6589,17 +6616,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10091/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction8-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6610,17 +6641,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10092/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction9-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6650,17 +6685,22 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://catalog.mobibase.com/tv/channels/show/id/103
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"{\"Referer\":\"http://catalog.mobibase.com/tv/channels/show/id/103\"}",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redcomedy-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+ 
 
 
 
@@ -6670,17 +6710,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10076/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redcrime2-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
  
  
  
@@ -6690,17 +6734,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10077/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redcrime4-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6712,17 +6760,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10078/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redcrime5-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6739,17 +6791,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10079/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redcrime6-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
 
 
 
@@ -6761,17 +6817,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://tv.vodu.me:2052/live/10081/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redcrime8-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
  
  
  
@@ -6783,17 +6843,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redcrime9-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
  
  
  
@@ -6804,17 +6868,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*reddrama-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
  
  
   
@@ -6826,17 +6894,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "https://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*reddrama2-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
  
  
  
@@ -6850,17 +6922,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "https://1002631743.rsc.cdn77.org/1002631743/tracks-v1a1/mono.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*reddrama3-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
  
  
  
@@ -6874,17 +6950,21 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "https://1946514655.rsc.cdn77.org/1946514655/tracks-v1a1/mono.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*reddrama4-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
  
  
  
@@ -6896,17 +6976,20 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*reddrama5-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
 
 
 
