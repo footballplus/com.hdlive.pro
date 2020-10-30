@@ -1156,6 +1156,36 @@
 
 
 
+
+
+
+{"SortID":"128","A":"1144",
+"B":"M. Formula 1 HD",
+"C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"https://sport-tv-guide.live/images/stations/a366.png",
+"G":"https://vergol.com/aplicacion/app21/deportes/formula1.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"N":"mierda",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+
+
+
+
+
 {"SortID":"128","A":"1144",
 "B":"VAMOS ",
 "C": "1",
