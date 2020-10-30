@@ -434,24 +434,18 @@
  
  
  
- 
- 
- 
-{"SortID":"128","A":"23191046755227","B":"BEİN SPORTS 1 HD(SVR2)","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://3.bp.blogspot.com/-yyyBj6F2tQs/XYPMXNWjr8I/AAAAAAAAAVs/aRpYOWEBOvwi6m4L-XJ88Hr6kMbTOr_PACLcBGAsYHQ/s1600/PicsArt_09-19-08.39.49.png","G":"https://app.slcksprtsapp.com/app/kanal/1.json","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http[^'\"]*mpd[^'\"]*)['\"]","L":"","M":"","R":"","N":"SelcukSportsᴴᴰ/16.0 ExoPlayerLib/2.10.1","O":"","P":0},
+{"SortID":"128","A":"5","B":"(SRV 2) Bein turk 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a640.png",
+"G":"https://app.slcksprtsinfo.com/app/kanal/1.json","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http[^'\"]*m3u8[^'\"]*)['\"]","L":"","M":"","R":"","N":"SelcukSportsᴴᴰ/15.0 ExoPlayerLib/2.10.1","O":"","P":0},
+
+
+{"SortID":"128","A":"6","B":"(SRV 2) Bein turk 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a641.png",
+"G":"https://app.slcksprtsinfo.com/app/kanal/3.json","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http[^'\"]*m3u8[^'\"]*)['\"]","L":"","M":"","R":"","N":"SelcukSportsᴴᴰ/15.0 ExoPlayerLib/2.10.1","O":"","P":0},
 
 
 
+{"SortID":"128","A":"7","B":"(SRV 2) Bein turk 3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a642.png",
+"G":"https://app.slcksprtsapp.com/app/kanal/7.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"SelcukSportsᴴᴰ/12.0 ExoPlayerLib/2.10.1","O":"","P":0},
 
-
-
-
-
-{"SortID":"128","A":"1025","B":"BEİN SPORTS 2 HD (SRV2)","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://3.bp.blogspot.com/-k4ZgiZoQgjQ/XYPMijq2h2I/AAAAAAAAAVw/JO0dWbvgfScfUC6pDCzl4OydHD4T8tR1gCLcBGAsYHQ/s1600/PicsArt_09-19-08.40.16.png",https://app.slcksprtsapp.com/app/kanal/3.json","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http[^'\"]*mpd[^'\"]*)['\"]","L":"","M":"","R":"","N":"SelcukSportsᴴᴰ/16.0 ExoPlayerLib/2.10.1","O":"","P":0},
-
-
-
-
-{"SortID":"128","A":"1026","B":"BEİN SPORTS 3 HD (SRV2)","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://4.bp.blogspot.com/-7WC6ehbRuLo/XYPMq5xabaI/AAAAAAAAAV0/5VS8wjnL-00c9WOHAMLHpTcoBP2cyQoDgCLcBGAsYHQ/s1600/PicsArt_09-19-08.40.58.png","G":"https://app.slcksprtsapp.com/app/kanal/7.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"SelcukSportsᴴᴰ/12.0 ExoPlayerLib/2.10.1","O":"","P":0},
 
  
  
