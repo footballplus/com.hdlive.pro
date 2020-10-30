@@ -14,6 +14,29 @@
 
 
 
+  
+{ "SortID":"128","A": "8",
+ "B": "film action",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a291.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.38:2200/VOD/redaction-en/mpegts?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+
+
+
 
 
 
