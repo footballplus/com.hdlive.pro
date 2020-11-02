@@ -29,10 +29,6 @@
  
 
  
- {"SortID":"128","A":"5","B":"Tottenham Hotspur vs Brighton","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/","G":"https://centurylink.mx.cdn.booyah.live/hls/250176/29581568.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}, 
-
-
-
 
 
  
