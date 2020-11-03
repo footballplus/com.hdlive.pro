@@ -1368,7 +1368,7 @@
  "I": "false", 
 "J":"staticpattern",
 "K":"token=(.*?)['\"]",
-"L":"http://185.246.210.51:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=",
+"L":"http://89.187.169.202:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=",
 "M":"",
 "R":"",
 "N":"",
