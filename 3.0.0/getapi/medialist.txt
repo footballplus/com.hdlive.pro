@@ -1238,17 +1238,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1239.png", 
-  "G": "http://a.srvbr.me:8880/live/778654/778654/748.m3u8
+   "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
-"R":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23",
-"P":0}, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://50.7.34.154:2200/PY-N/Sportv_HD-br/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
   
 
 
@@ -1260,17 +1261,18 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1240.png", 
-"G": "http://a.srvbr.me:8880/live/778654/778654/747.m3u8
+  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
-"R":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23",
-"P":0}, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://50.7.34.154:2200/PY-N/Sportv_2_HD-br/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
  
 
 
@@ -1285,20 +1287,19 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1242.png", 
-"G": "http://a.srvbr.me:8880/live/778654/778654/745.m3u8
+  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", 
-"R":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23",
-"P":0}, 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://50.7.34.154:2200/PY-N/Sportv_3_HD-br/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
  
-
-
 
 
 
