@@ -1345,36 +1345,37 @@
  
              
             
- {"SortID":"128","A":"20","B":"BT 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a97.png",
-  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+  {"SortID":"128","A":"20","B":"BT 1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a97.png",
+  "G": "https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 ",
 "H": "defaultplayer",
  "I": "false", 
-"J":"staticpattern",
-"K":"token=(.*?)['\"]",
-"L":"http://185.246.210.50:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=",
-"M":"",
-"R":"",
-"N":"",
-"O":"04.06.2019 22:39:32",
-"P":0},
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
  
  
  
  {"SortID":"128","A":"21","B":"BT 2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a100.png",
-  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+  "G": "https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 ",
 "H": "defaultplayer",
  "I": "false", 
-"J":"staticpattern",
-"K":"token=(.*?)['\"]",
-"L":"http://89.187.169.202:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=",
-"M":"",
-"R":"",
-"N":"",
-"O":"04.06.2019 22:39:32",
-"P":0},
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
  
+ 
+         
  
  
  
