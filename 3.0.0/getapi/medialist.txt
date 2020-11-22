@@ -2330,46 +2330,91 @@
 
 
 
-
-
-
-
-
-
-
-
-{"SortID":"128","A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"http://185.180.223.89:25461/sportstv/iosapp/97","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0} 
+{"SortID":"128","A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1","H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/Sky_Sports_Football_HD-uk/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0}
+  
  
  
  
- , {"SortID":"128","A":"853","B":"Sky Premier League","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a90.png","G":"http://185.180.223.89:25461/sportstv/iosapp/181","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0} 
+ , {"SortID":"128","A":"853","B":"Sky Premier League","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a90.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1","H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/Sky_Sports_Premiere_League_HD-uk/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0}
+  
  
  
  
  
   
   
- , {"SortID":"128","A":"853","B":"Sky Sports Main Event","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a663.png","G":"http://185.180.223.89:25461/sportstv/iosapp/99","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
+ , {"SortID":"128","A":"853","B":"Sky Sports Main Event","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a663.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1","H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0}
+ 
  
   
  
  
  
  
+
  , {"SortID":"128","A":"853","B":"Sky Action","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a93.png","G": "http://185.180.223.89:25461/sportstv/iosapp/94
 ",
  "H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0} 
+
+  
  
- , {"SortID":"128","A":"853","B":"Sky sport Mix","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a123.png","G": "http://185.180.223.89:25461/sportstv/iosapp/100
+ , {"SortID":"128","A":"853","B":"Sky sport Mix","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a123.png","G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1
 ",
- "H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0} 
+ "H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0}
+  
  
  
   
  , {"SortID":"128","A":"853","B":"Sky Sports Arena","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png",
-"G": "http://185.180.223.89:25461/live/sportstv/iosapp/111.m3u8
+"G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1
 ",
- "H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0} 
+ "H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/Sky_Sports_Arena_HD/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0}
+  
  
  
 
@@ -2377,9 +2422,19 @@
  
  
   
- , {"SortID":"128","A":"853","B":"Sky Sports F1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a118.png","G":"http://185.180.223.89:25461/sportstv/iosapp/96
+ , {"SortID":"128","A":"853","B":"Sky Sports F1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a118.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1
 ",
- "H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0} 
+ "H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0}
+  
  
  
  
@@ -2387,9 +2442,19 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Sky sport GOLF","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a94.png","G":"http://185.180.223.89:25461/sportstv/iosapp/98
+ , {"SortID":"128","A":"853","B":"Sky sport GOLF","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a94.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1
 ",
-"H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0}
+"H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/Sky_Sports_Golf_HD-uk/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0}
+ 
  
  
  
@@ -2397,11 +2462,31 @@
  
   
  
- , {"SortID":"128","A":"853","B":"Sky sport Cricket","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a664.png","G":"http://185.180.223.89:25461/sportstv/iosapp/95
+ , {"SortID":"128","A":"853","B":"Sky sport Cricket","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a664.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1
 ",
- "H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"iosapp2","O":"25.01.2019 00:39:23","P":0} 
+ "H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/Sky_Sports_Cricket_SD-uk/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0}
+  
  
  
+ 
+ 
+
+
+
+
+
+
+
+
  
  
  
