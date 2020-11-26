@@ -2629,37 +2629,10 @@
  "N": "", "O": "",
  "P": 0 }, 
  
+
             
                             
-{ "SortID":"128",
-"A": "8",
- "B": "(IT) Sky Sport Football",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a355.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
-",
-"H": "defaultplayer",
- "I": "faltruese", 
- "J": "staticpattern", 
- "K":"token=(.*?)['\"]",
-"L":"http://185.246.210.52:2200/NI-EX/Sky_Sport_Football_HD-it/index.m3u8?token=", 
- "M": "", 
- "R":"",
- "N": "", "O": "",
- "P": 0 }
- 
-            
-            
-
-
- 
- 
- 
-  
- 
- , {"SortID":"128","A":"853","B":"AD SPORTS 1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a815.png","G":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+ {"SortID":"128","A":"853","B":"AD SPORTS 1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a815.png","G":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
  
