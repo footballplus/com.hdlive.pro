@@ -2080,7 +2080,7 @@
  "I": "faltruese", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
-"L":"http://185.246.210.54:2200/AFR-EX/Supersport_Golf_FHD-dstv/mpegts?token=", 
+"L":"http://89.187.169.202:2200/AFR-EX/Supersport_Golf_FHD-dstv/mpegts?token=", 
  "M": "", 
  "R":"",
  "N": "", "O": "",
